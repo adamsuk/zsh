@@ -33,3 +33,6 @@ alias build='docker-compose build'
 # yarn/npm
 alias yi='yarn install'
 alias ni='npm i'
+
+# micro
+alias micro='micro /dev/null'
